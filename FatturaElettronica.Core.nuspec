@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DM.FatturazioneElettronica.Core</id>
+    <version>1.0.1</version>
+    <title>FatturazioneElettronica</title>
+    <authors>DM</authors>
+    <owners>DM</owners>
+    <licenseUrl>https://github.com/andmattia/FatturazioneElettronica.Core/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>FatturazioneElettronica</description>
+    <releaseNotes>Versione con JSON in downgrade.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>FatturaElettronica</tags>
+  </metadata>
+</package>
